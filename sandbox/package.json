@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "sandbox",
+  "dependencies": {
+    "proxies": "1.0.0"
+  }
+}
